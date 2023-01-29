@@ -1,2 +1,1 @@
-# previsao de vendas
- Previsão de vendas que uma determinada empresa faria com base nas mídias utilizadas
+Projeto Python: Programa que utiliza Machine Learning para prever o valor das vendas que a empresa Hashtag terá em determinado período, com base nos gastos em anúncios nas 3 redes: TV, Jornal e Rádio.
